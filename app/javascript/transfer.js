@@ -1,3 +1,1 @@
-window.alert = function(){
-  console.log("aaa");
-  }
+console.log("aaa");
