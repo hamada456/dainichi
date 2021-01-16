@@ -5,5 +5,8 @@ class PageController < ApplicationController
 
   def address
   end
+
+  def performance
+  end
   
 end
